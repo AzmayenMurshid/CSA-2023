@@ -9,7 +9,7 @@ public class Lab_Input {
         short short1, short2;
         String string1, string2;
 
-        try{
+        try{ // try block
             Scanner doubleInput = new Scanner(System.in); Scanner floatInput = new Scanner(System.in);
             Scanner shortInput = new Scanner(System.in); Scanner stringInput = new Scanner(System.in);
 
